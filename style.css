@@ -31,5 +31,6 @@ body{
 
 .cabecalho{
     background-image: linear-gradient(#23ef31,#1d0808);
+    display: flex;
 }
    
