@@ -14,7 +14,7 @@ body{
     margin:0px;
 }
 #img_redonda{
- height:100px;
+ height:50px;
  height: 260px;
  border-radius: 90%
 }
@@ -24,7 +24,7 @@ body{
     margin: 0 16px;
 }
 #png_redonda{
-    height:50px;
+    height:60px;
     height: 260px;
     border-radius: 50%
    }
