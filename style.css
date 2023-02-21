@@ -16,5 +16,8 @@ body{
  height:50px;
  height: 260px;
  border-radius: 50%
+}
 
+.cabecalho-lista-item{
+    display: inline-block;
 }
