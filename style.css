@@ -35,12 +35,5 @@ body{
     display: flex;
 }
 
-.container{
-    background: url('https://bit.ly/3QnYiGv'); 
-}
-.text-cutout{
-    background-color: #fff;
-    mix-blend-mode: screen;
-    padding: .1em .8em;
-}
+
    
