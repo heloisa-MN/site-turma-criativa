@@ -205,6 +205,6 @@ button {
   }
 
 .imagem {
-  clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+  clip-path: circle(50% at 50% 50%);
   width: 25%;
 }
