@@ -216,3 +216,7 @@ button {
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
 }
+.lol-imagem{
+  clip-path: circle(50% at 50% 50%);
+  width: 25%;
+}
