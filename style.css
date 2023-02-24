@@ -208,8 +208,8 @@ button {
   }
 
 .imagem {
-  clip-path: circle(50% 50% 50%);
-  width: 25%;
+  clip-path: circle(50% at 50% 50%);
+  width: 20%;
 }
 
 .jogos-todos{
@@ -217,6 +217,6 @@ button {
   grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .lol-imagem{
-  clip-path: circle(50%  50% 50%);
-  width: 25%;
+  clip-path: circle(50% at 50% 50%);
+  width: 20%;
 }
