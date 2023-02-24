@@ -224,5 +224,5 @@ button {
 }
 .estudante-todos{
   display: grid;
-  grid template columns: 10px 10
+  grid template columns: 10px 10px
 }
