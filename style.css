@@ -213,7 +213,10 @@ button {
 
 .jogo-iconi{
   width: 24px;
-  
+}
+
+.jogo-div{
+  text-align: center;
 }
 
 .jogos-titulo{
