@@ -211,3 +211,8 @@ button {
   clip-path: circle(50% at 50% 50%);
   width: 25%;
 }
+
+.jogos-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
