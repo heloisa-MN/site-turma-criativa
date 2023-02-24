@@ -223,8 +223,3 @@ button {
   text-align: center;
   padding: 50px 0 ;
 }
-
-.games-todos{
-  display: grid;
-  grid-template-columns: 0%;
-}
