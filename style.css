@@ -215,11 +215,13 @@ button {
   width: 24px;
   
 }
-.jogo-div{
-  text-align: center;
-}
+
 .jogos-titulo{
   text-align: center;
   padding: 50px 0 ;
 }
 
+.games-todos{
+  display: grid;
+  grid-template-columns: 0%;
+}
