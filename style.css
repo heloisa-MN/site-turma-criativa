@@ -225,5 +225,5 @@ button {
 
 .games-todos{
   display: grid;
-  grid-template: 20% 20% 20% ;
+  grid-template: 20% 20% 20% 20% 20%;
 }
