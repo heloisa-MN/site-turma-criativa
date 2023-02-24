@@ -218,3 +218,10 @@ button {
 .jogo-div{
   text-align: center;
 }
+.jogos-titulo{
+  text-align: center;
+  padding: 50px;
+}
+.jogos-todos{
+  display: grid;
+}
