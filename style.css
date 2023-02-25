@@ -1,10 +1,4 @@
-.cabecalho{
-    background-color:#21c424 ;
-    color: #57b41d;
-    display: flex;
-    justify-content: space-around;
-    font-family: Consolas;
-}
+
 
 .cabecalho-imagem{
     width: 20%;
