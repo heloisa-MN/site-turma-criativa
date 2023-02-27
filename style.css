@@ -208,7 +208,7 @@ button {
   }
 
 .imagem {
-  width:10%;
+  width:25%;
 }
 
 .jogo-iconi{
@@ -252,6 +252,4 @@ body {
     width: 30%;
   }
   
-  .imagem{
-    display: inline-block;
-  }
+ 
