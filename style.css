@@ -251,3 +251,7 @@ body {
   .logos-jogos{
     width: 30%;
   }
+  
+  .imagem{
+    display: inline-block;
+  }
