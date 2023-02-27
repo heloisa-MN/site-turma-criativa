@@ -248,9 +248,12 @@ body {
   }
 }
 
-  .logos-jogos{
+ .logos-jogos{
     width: 30%;
-    margin: 6;
+    
   }
-  
+  .estudante-todos{
+    display: grid;
+    grid template columns: 20% 20% 20% 20% 20% ;
+  }
  
