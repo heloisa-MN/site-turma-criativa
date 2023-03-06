@@ -4,7 +4,7 @@
   display: flex;
   justify-content: space-around;
   font-family: Consolas;
-  font-color="white"
+
 }
 
 .cabecalho-imagem{
@@ -230,7 +230,7 @@ button {
 
 
 body {
-  background: linear-gradient(-45deg, #220670, #51d107, #0a2833, #6bcf0e);
+  background: linear-gradient(-45deg, #9481ca, #80b164, #3a697a, #619e28);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
