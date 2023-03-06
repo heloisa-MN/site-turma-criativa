@@ -262,3 +262,8 @@ body {
     margin: 30px;
   }
  
+  button {
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+  }
