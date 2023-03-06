@@ -4,7 +4,7 @@
   display: flex;
   justify-content: space-around;
   font-family: Consolas;
- 
+  font-color="white"
 }
 
 .cabecalho-imagem{
