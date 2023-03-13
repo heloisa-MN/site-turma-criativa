@@ -262,4 +262,6 @@ body {
     margin: 30px;
   }
  
- 
+  .logos-jogos{
+    clip-path: circle(61.4% at 50% 50%);
+  }
